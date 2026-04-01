@@ -1,0 +1,195 @@
+# Icons Reference — Tetris Assets
+> Source: Figma file `MihxOnWwdJftkZTzmKP2jE` · Page: Icons · 155 components
+
+---
+
+## General
+
+### Usage rules
+
+**Actions**
+- `Add` — use when creating or adding something that has no specific variant in the library.
+- `Delete` — use exclusively for permanent, irreversible deletion (trash metaphor).
+- `Remove` — use for dissociating, uncounting or removing from a list without permanent deletion.
+- `Change` — use for simple, direct swaps (e.g. substituting a product, updating a value).
+- `Switch` — use for alternating between modes, tasks or complex contextual states.
+- `Close` — use exclusively to close a flow or dismiss a navigation layer. Do not use as a generic "remove" action.
+
+**Navigation**
+- `Menu` — the only icon for main navigation menus. Other icons may support, but not replace it.
+- `Home` — use exclusively to return to the start/root of the application.
+- `Arrow left` — use for back navigation between screens or steps.
+- `Arrow right` — use for forward navigation between screens or steps.
+- `Chevron right` — use inside lists and components that indicate navigable/expandable items.
+- `Chevron left` — use for carousel back navigation.
+- `Chevron down` — use to indicate a closed accordion or collapsed section.
+- `Chevron up` — use to indicate an open accordion or expanded section.
+
+**Feedback & status**
+- `Feedback caution`, `Feedback negative`, `Feedback positive`, `Feedback info` — use in **snackbars** always. Preferred for standalone feedback states.
+- `Warning`, `Informative`, `Check`, `Remove` (negative context) — use only paired with a badge and a proper background color. Without that treatment, replace with the corresponding Feedback variant.
+- `Feedback caution` — use when a context involves reporting or a problem and no specific icon exists in the library.
+
+**Tooltips & placeholders**
+- `Tooltip` — always use for tooltip trigger components.
+- `Placeholder image` — use whenever an icon is not identified or described and a visual placeholder is needed to occupy the space.
+
+---
+
+## Icons
+
+- **9 dots**: used for app launcher or multi-module navigation.
+- **Add**: used for registering a new item, record or entry when no specific variant exists.
+- **Airplane**: used for air freight modal or shipment by air cargo.
+- **Alarm**: used for SLA breach alerts, deadlines or task reminders.
+- **Arrow down**: used for descending sort or downward navigation.
+- **Arrow down left**: used for down-left direction in maps or flows.
+- **Arrow down right**: used for down-right direction in maps or flows.
+- **Arrow left**: used for back navigation between screens or steps.
+- **Arrow left down**: used for curved left-down route or flow direction.
+- **Arrow left up**: used for curved left-up route or flow direction.
+- **Arrow right**: used for forward navigation between screens or steps.
+- **Arrow right down**: used for curved right-down route or flow direction.
+- **Arrow right up**: used for curved right-up route or flow direction.
+- **Arrow up**: used for ascending sort or upward navigation.
+- **Arrow up left**: used for curved up-left route or flow direction.
+- **Arrow up right**: used for curved up-right route or flow direction.
+- **Backspace**: used for deleting the last scanned or typed character.
+- **Bar chart**: used for performance reports, throughput or productivity dashboards.
+- **Batery charging**: used for battery-charging status on handhelds and mobile devices.
+- **Battery low**: used for low battery alert on scanners, tablets or handhelds.
+- **Bulldozer**: used for heavy equipment, yard management or bulk movement.
+- **Calendar**: used for scheduling deliveries, receiving windows or shifts.
+- **Calendar add**: used for creating a new schedule, appointment or shift.
+- **Camera**: used for capturing product photos, documenting damages or scanning labels.
+- **Camera disabled**: used for camera unavailable or no capture permission.
+- **Car**: used for light vehicle transport or fleet tracking.
+- **Car dock**: used for vehicle docking station or device cradle.
+- **Change**: used for simple, direct swaps such as substituting a product or updating a value.
+- **Chart line down**: used for declining KPIs such as fill rate or throughput.
+- **Chart line up**: used for improving KPIs such as picking accuracy or SLA compliance.
+- **Chat**: used for internal messaging or task coordination.
+- **Chat disabled**: used for chat unavailable or messaging blocked.
+- **Check**: used for confirming a step or marking an item as verified. Use with badge + background color; otherwise prefer Feedback positive.
+- **Chevron down**: used for closed accordion or collapsed section.
+- **Chevron left**: used for carousel back navigation.
+- **Chevron right**: used for lists and components that indicate a navigable or expandable item.
+- **Chevron up**: used for open accordion or expanded section.
+- **Clean**: used for clearing scanned data, resetting filters or a search field.
+- **Clock**: used for SLA countdown, shift duration or time tracking.
+- **Clock historic**: used for event log or timestamped audit trail.
+- **Close**: used exclusively to close a flow or dismiss a navigation layer.
+- **Congrats**: used for goal completion or gamification rewards.
+- **Danger**: used for critical failures, safety risks or blocking errors.
+- **Delete**: used exclusively for permanent, irreversible deletion.
+- **Desk**: used for fixed workstation or back-office context.
+- **Desk and mobile**: used for features available across desktop and mobile.
+- **Desktop**: used for desktop-only interface or management features.
+- **Disabled**: used for unavailable items, inactive routes or blocked states.
+- **Dots horizontal**: used for contextual action menu (horizontal).
+- **Dots vertical**: used for contextual action menu (vertical).
+- **Download**: used for exporting reports, manifests or inventory data.
+- **Edit**: used for editing an item detail, record or address.
+- **Email**: used for sending notifications or alerts by e-mail.
+- **Empty state**: used for screens with no results or no items in a queue.
+- **Expand**: used for opening a detail view or expanding a map.
+- **Eye**: used for viewing details or revealing masked data.
+- **Eye disabled**: used for hiding sensitive data or toggling visibility off.
+- **Fan**: used for temperature-controlled storage, HVAC or equipment cooling status.
+- **Feedback caution**: used for non-blocking warnings, recoverable SLAs or when a problem context has no specific icon in the library. Required in snackbars.
+- **Feedback info**: used for contextual tips or informational banners. Required in snackbars.
+- **Feedback negative**: used for failures, rejected items or errors. Required in snackbars.
+- **Feedback positive**: used for successful confirmations or completed steps. Required in snackbars.
+- **File**: used for documents, order files or damage reports.
+- **Filter**: used for filtering by status, date or location.
+- **Fire**: used for flammable product classification or safety alerts.
+- **Fire extinguisher**: used for fire safety equipment or emergency protocols.
+- **Flag**: used for priority orders, occurrences or items flagged for review.
+- **Footprints**: used for route tracking, picking path history or movement audit.
+- **Fragile**: used for fragile product handling or packaging alerts.
+- **Globe**: used for cross-border operations or multi-region settings.
+- **Grid four**: used for switching to grid view.
+- **Hand**: used for manual handling or hold-for-review states.
+- **Help**: used for contextual help or support.
+- **Home**: used exclusively to return to the root/start of the application.
+- **Informative**: used for inline tips or field explanations. Use with badge + background color; otherwise prefer Feedback info.
+- **Key**: used for access credentials or role-based permissions.
+- **Laptop**: used for back-office or supervisor access.
+- **Link**: used for linking shipments or copying tracking URLs.
+- **Lock**: used for locked positions, restricted access or secured records.
+- **Login**: used for session start on shared devices.
+- **Logout**: used for ending a session or releasing a shared device.
+- **Master box**: used for master carton identification or grouping of inner packs.
+- **Master box damage**: used for reporting damage to master cartons during receiving or transit.
+- **Medal**: used for performance recognition or ranking boards.
+- **Menu**: used for opening the main navigation.
+- **Microphone**: used for voice-directed picking or audio commands.
+- **Microphone disabled**: used for voice input unavailable or audio permission denied.
+- **Notification**: used for system alerts or push notifications.
+- **Organizer**: used for batch sequencing or wave organization.
+- **Package**: used for individual package handling or shipping unit.
+- **Pallet**: used for pallet-level operations: build, move, receive or dispatch.
+- **Pallet problem**: used for pallet damage, instability or non-conformity.
+- **Path**: used for picking route definition or warehouse navigation.
+- **Person body**: used for user identity or on-site presence.
+- **Pharmacy**: used for pharmaceutical or controlled-substance products.
+- **Pin**: used for pinning a location or reference point on a map.
+- **Placeholder image**: used for products without a registered photo.
+- **Power**: used for device power control or system restart.
+- **Press**: used for physical confirmation or trigger on handheld scanners.
+- **Product**: used for individual SKU or item detail.
+- **Product change**: used for product substitution or unexpected item swap.
+- **Product damage**: used for product damage during receiving or transit.
+- **Product problem**: used for non-conformities or quality issues on a product.
+- **Qr code**: used for generating or scanning QR Codes on products, totes or locations.
+- **Rack**: used for rack/shelf identification or storage position.
+- **Rack no space**: used for full rack or no putaway capacity available.
+- **Refresh**: used for reloading queues or syncing data.
+- **Remove**: used for removing an item from a tote, list or task.
+- **Remove circle**: used for removal confirmation on critical actions.
+- **Scan**: used for generic code scanning (barcode, QR or NFC).
+- **Scan QR code**: used for scanning QR Codes on totes, locations or pallets.
+- **Scan bar code**: used for scanning barcode labels on products or packaging.
+- **Scan product**: used for scanning a SKU during picking, receiving or counting.
+- **Scan tote**: used for scanning a tote label to start or close a batch.
+- **Search**: used for looking up products, orders or locations.
+- **Search wrong**: used for empty results or unrecognized scan.
+- **Security camera**: used for CCTV monitoring, surveillance area or loss prevention.
+- **Selection add**: used for adding items to a batch or task group.
+- **Settings**: used for system configuration or user preferences.
+- **Shuffle**: used for rebalancing tasks or redistributing picks.
+- **Song**: used for audio settings or notification sounds.
+- **Stacked**: used for stacked pallets or consolidated items.
+- **Stairs down**: used for navigating to a lower floor or mezzanine level.
+- **Stairs up**: used for navigating to an upper floor or mezzanine level.
+- **Switch**: used for toggling features or changing device state.
+- **Tablet**: used for tablet-based operations such as receiving or counting.
+- **Tag**: used for product labels, SKU tags or classification categories.
+- **Tennis ball**: used for sporting goods or recreational product category.
+- **Tire**: used for automotive or tire product category.
+- **Tooltip**: used for contextual hints or inline guidance.
+- **Tote**: used for tote/bin in picking, packing or transfer flows.
+- **Tote add**: used for adding an item to an active tote.
+- **Tote finished**: used for tote complete and ready for dispatch.
+- **Tote full**: used for tote at capacity, must be closed or swapped.
+- **Tote remove**: used for removing an item from a tote.
+- **Tote report**: used for tote summary or picking audit.
+- **Trophy**: used for performance achievements or leaderboards.
+- **Truck**: used for truck identification, dispatch or inbound receiving.
+- **Truck dock**: used for dock door assignment or truck check-in.
+- **Trusted**: used for verified suppliers, approved products or certified locations.
+- **Upload**: used for importing files or uploading product images.
+- **User**: used for user profile or role assignment.
+- **User add**: used for adding a new user or team member.
+- **User edit**: used for editing profile or role information.
+- **User remove**: used for deactivating or removing a user.
+- **Van**: used for small fleet or courier operations.
+- **Volume**: used for audio volume or scanner beep level.
+- **Volume muted**: used for muting alerts or disabling audio.
+- **Wall**: used for zone boundaries or area separators.
+- **Warning**: used for non-critical alerts such as low stock or expiring SLAs.
+- **Water**: used for liquid products or humidity-sensitive storage.
+- **Wheelchair**: used for accessibility or reduced-mobility context.
+- **Wifi**: used for active network connectivity.
+- **Wifi low**: used for weak signal on devices, causing sync delays.
+- **selection**: used for selected state on items or positions.

@@ -1,3 +1,15 @@
+# Badge
+
+> [!ABSTRACT]
+> Son pequeñas unidades de información que aparecen como complemento dentro de determinados componentes.
+
+![][cover]
+
+| | |
+|---|---|
+| **Figma Library** | [Tetris Library 2.0 ↗](https://www.figma.com/design/xMJ3tIYgPC2FQnyhWYOxSf/Tetris-Library-2.0?m=auto&node-id=7501-2614) |
+| **Figma Specs** | [Component Specs ↗](https://www.figma.com/design/Rbg2kw9fx5wqFDOmSIoG7m/Component-Specs?node-id=2657-4857) |
+
 <!--
 nombre: Badge
 owner: Tetris
@@ -6,17 +18,7 @@ aliases: —
 fecha-revisión: 2026-03-20
 -->
 
-# Badge
 
-| | |
-|---|---|
-| **Figma Library** | [Tetris Library 2.0 ↗](https://www.figma.com/design/xMJ3tIYgPC2FQnyhWYOxSf/Tetris-Library-2.0?m=auto&node-id=7501-2614) |
-| **Figma Specs** | [Component Specs ↗](https://www.figma.com/design/Rbg2kw9fx5wqFDOmSIoG7m/Component-Specs?node-id=2657-4857) |
-
-> [!ABSTRACT]
-> Son pequeñas unidades de información que aparecen como complemento dentro de determinados componentes.
-
-![][cover]
 
 ## Descripción general
 
